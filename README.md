@@ -1,17 +1,3 @@
-Got it 🚀 Here’s a **ready-to-use `README.md`** for your **RoboCore-32** repo.
-It includes:
-
-* Intro
-* Features & Applications
-* Hardware Overview (with block diagram image placeholder)
-* Getting Started instructions
-* Repo structure
-* Future improvements
-* Credits & License
-
-You can copy-paste directly into your repo, and just drop your **block diagram PNG/SVG** + **PCB photos/renders** into the `docs/` folder.
-
----
 
 ```markdown
 # 🤖 RoboCore-32  
