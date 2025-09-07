@@ -80,58 +80,7 @@ RoboCore-32 is a custom PCB for **robotics learning, prototyping, and IoT projec
 
 ---
 
-## 🔮 **Future Improvements**
-- 🔋 Battery charging & protection circuit (Li-ion/LiFePO₄)
-- 🧭 Onboard IMU (accelerometer + gyro)
-- ⚡ Current sensing for motors
-- 🔗 CAN/RS485 communication support
-- 💡 Status LEDs & buzzer
 
----
-
-## 🙌 **Credits**
-Designed by **[Your Name]** as a learning project in robotics and embedded systems.<br>
-Powered by [KiCad](https://www.kicad.org/) and manufactured by PCBWay / JLCPCB.
-
----
-
-## 📄 **License**
-This project is open-sourced under the **MIT License** – feel free to use, modify, and share.
-| **Inputs/Outputs**| Multiple GPIO headers, push button |
-
-### Block Diagram
-
-<img src = "E:\RoboCore -32\Assets\Block Diagrm.PNG">
-
----
-
-## ⚡ Getting Started
-1. **Power the Board**  
-   - Use the **barrel jack (7–12V)** for motors + logic supply.  
-   - USB can power ESP32 for development (ensure proper current limits).  
-
-2. **Program via USB**  
-   - Connect with Micro-USB cable → FT232RL → ESP32.  
-   - Use Arduino IDE, PlatformIO, or ESP-IDF.  
-
-3. **Connect Motors & Sensors**  
-   - Motor outputs connect to **TB6612FNG OUTA/OUTB** headers.  
-   - I²C sensors (e.g. MPU6050, OLED) connect to **JST I²C header**.  
-
----
-
-## 🚀 Repository Structure
-```
-
-📂 RoboCore-32
-┣ 📁 hardware        # KiCad project files, Gerbers, BOM
-┣ 📁 firmware        # Example ESP32 code (Arduino/ESP-IDF)
-┣ 📁 docs            # Datasheets, diagrams, images
-┗ README.md
-
-```
-
----
 
 ## 📸 Images
 (Add PCB renders or real board photos here)
@@ -140,7 +89,7 @@ This project is open-sourced under the **MIT License** – feel free to use, mod
 - Bottom View  
 - Assembled Prototype  
 
-
+---
 
 ## 🙌 Credits
 Designed by **Avishka Vishwajith** as a learning project in robotics and embedded systems.  
@@ -148,4 +97,3 @@ Powered by [KiCad](https://www.kicad.org/) and manufactured by PCBWay.
 
 ---
 
----
