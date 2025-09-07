@@ -74,7 +74,9 @@ RoboCore-32 is a custom PCB for **robotics learning, prototyping, and IoT projec
 
 <img src="Assets\Back_Layer.PNG" width="400" alt="Back_Layer" />
 
-- Assembled Prototype
+- 3D View
+
+<img src="Assets\3D design.PNG" width="400" alt="3D design" />
 
 ---
 
@@ -138,25 +140,12 @@ This project is open-sourced under the **MIT License** – feel free to use, mod
 - Bottom View  
 - Assembled Prototype  
 
----
 
-## 🔮 Future Improvements
-- Battery charging & protection circuit (Li-ion/LiFePO₄)  
-- Onboard IMU (accelerometer + gyro)  
-- Current sensing for motors  
-- CAN/RS485 communication support  
-- Status LEDs & buzzer  
-
----
 
 ## 🙌 Credits
-Designed by **[Your Name]** as a learning project in robotics and embedded systems.  
-Powered by [KiCad](https://www.kicad.org/) and manufactured by PCBWay / JLCPCB.  
+Designed by **Avishka Vishwajith** as a learning project in robotics and embedded systems.  
+Powered by [KiCad](https://www.kicad.org/) and manufactured by PCBWay.  
 
 ---
-
-## 📄 License
-This project is open-sourced under the **MIT License** – feel free to use, modify, and share.  
-```
 
 ---
