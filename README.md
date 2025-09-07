@@ -77,9 +77,27 @@ RoboCore-32 is a custom PCB for **robotics learning, prototyping, and IoT projec
 
 ---
 
-## 🙌 Credits
-Designed by **Avishka Vishwajith** as a learning project in robotics and embedded systems.  
-Powered by [KiCad](https://www.kicad.org/) and manufactured by PCBWay.  
+## 🎉 Special Thanks to PCBWay
+
+
+<div align="center">
+  <img src="--" width="260">   <img src="--" width="260"> 
+</div>
+
+<p align="center">
+  <a href="https://www.pcbway.com/" target="_blank">
+    <img src="--- alt="PCBWay" width="200"/>
+  </a>
+
+</p>
+
+I would like to give a huge shoutout and sincere thanks to **[PCBWay](https://www.pcbway.com/)** for sponsoring the PCB fabrication of this project!
+
+The **build quality, silkscreen clarity, via precision, and copper finish** exceeded expectations. PCBWay’s service was fast, professional, and extremely helpful throughout the production process.
+
+This project wouldn’t have been possible without their generous support. If you’re looking to manufacture professional-grade PCBs at an affordable price, I highly recommend checking them out.
+
+🔗 [Visit PCBWay →](https://www.pcbway.com/)
 
 ---
-
+> © 2025 Avishka Vishwa   •   Made with ☕ & 🕑
