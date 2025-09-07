@@ -13,27 +13,21 @@
 
 ---
 
+
 ## ✨ **Why RoboCore-32?**
-RoboCore-32 is a custom PCB for **robotics learning, prototyping, and IoT projects**. It combines the power of the **ESP32-WROOM-32** with a dual motor driver, robust power management, and flexible expansion options.
+RoboCore-32 is a custom PCB for **robotics learning, prototyping, and IoT projects**. It features:
 
----
-
-## � **Key Features**
-<details>
-   <summary><strong>Expand for details</strong></summary>
-
-   - 🟦 **ESP32-WROOM-32** (Wi-Fi + BLE microcontroller)
-   - ⚡ **TB6612FNG Dual H-Bridge Driver** – control up to **2 DC motors**
-   - 🔋 **Onboard Power Management**
-      - LM2596S-5 → 5V buck regulator (up to ~3A)
-      - AMS1117-3.3 → 3.3V LDO regulator
-   - 🖥️ **USB Programming & Debugging** via FT232RL USB–UART
-   - 🔌 **Barrel Jack Power Input** with auto switching
-   - 🧩 **Expansion Headers**
-      - I²C JST header for sensors/displays
-      - GPIO pin headers (1×02, 1×03, 1×04)
-   - 🔘 **User Input Button** (Reset/Boot/User configurable)
-</details>
+- 🟦 **ESP32-WROOM-32** (Wi-Fi + BLE microcontroller)
+- ⚡ **TB6612FNG Dual H-Bridge Driver** – control up to **2 DC motors**
+- 🔋 **Onboard Power Management**
+   - LM2596S-5 → 5V buck regulator (up to ~3A)
+   - AMS1117-3.3 → 3.3V LDO regulator
+- 🖥️ **USB Programming & Debugging** via FT232RL USB–UART
+- 🔌 **Barrel Jack Power Input** with auto switching
+- 🧩 **Expansion Headers**
+   - I²C JST header for sensors/displays
+   - GPIO pin headers (1×02, 1×03, 1×04)
+- 🔘 **User Input Button** (Reset/Boot/User configurable)
 
 ---
 
@@ -44,6 +38,7 @@ RoboCore-32 is a custom PCB for **robotics learning, prototyping, and IoT projec
 - ⚡ Rapid prototyping for automation
 
 ---
+
 
 ## 🧩 **Hardware Overview**
 
@@ -57,6 +52,7 @@ RoboCore-32 is a custom PCB for **robotics learning, prototyping, and IoT projec
 
 ---
 
+
 ## 🗂️ **Repository Structure**
 
 ```text
@@ -67,25 +63,17 @@ RoboCore-32 is a custom PCB for **robotics learning, prototyping, and IoT projec
 ┗ README.md
 ```
 
----
-
-## ⚡ **Getting Started**
-1. **Power the Board**
-    - Use the **barrel jack (7–12V)** for motors + logic supply.
-    - USB can power ESP32 for development (ensure proper current limits).
-2. **Program via USB**
-    - Connect with Micro-USB cable → FT232RL → ESP32.
-    - Use Arduino IDE, PlatformIO, or ESP-IDF.
-3. **Connect Motors & Sensors**
-    - Motor outputs connect to **TB6612FNG OUTA/OUTB** headers.
-    - I²C sensors (e.g. MPU6050, OLED) connect to **JST I²C header**.
-
----
 
 ## 📸 **Images**
 <!-- Add PCB renders or real board photos here -->
 - Top View
+
+<img src="Assets\Front_Layer.PNG" width="400" alt="Front_Layer" />
+
 - Bottom View
+
+<img src="Assets\Back_Layer.PNG" width="400" alt="Back_Layer" />
+
 - Assembled Prototype
 
 ---
