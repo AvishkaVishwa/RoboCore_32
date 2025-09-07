@@ -1,5 +1,4 @@
 
-```markdown
 # 🤖 RoboCore-32  
 *An ESP32-Powered Robot Controller Board*
 
@@ -104,5 +103,3 @@ This project is open-sourced under the **MIT License** – feel free to use, mod
 ```
 
 ---
-
-Would you like me to also generate the **SVG version of the block diagram** so you can commit it under `docs/robocore32_block_diagram.svg` and link it directly in this README?
