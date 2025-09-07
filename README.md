@@ -52,18 +52,6 @@ RoboCore-32 is a custom PCB for **robotics learning, prototyping, and IoT projec
 
 ---
 
-
-## 🗂️ **Repository Structure**
-
-```text
-📂 RoboCore-32
-┣ 📁 hardware        # KiCad project files, Gerbers, BOM
-┣ 📁 firmware        # Example ESP32 code (Arduino/ESP-IDF)
-┣ 📁 docs            # Datasheets, diagrams, images
-┗ README.md
-```
-
-
 ## 📸 **Images**
 <!-- Add PCB renders or real board photos here -->
 - Top View
