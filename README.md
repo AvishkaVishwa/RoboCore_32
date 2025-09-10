@@ -87,7 +87,7 @@ RoboCore-32 is a custom PCB for **robotics learning, prototyping, and IoT projec
 
 
 <div align="center">
-  <img src="Assets\board.jpg" width="260">   <img src="--" width="260"> 
+  <img src="Assets\board.jpg" width="260">
 </div>
 
 <p align="center">
