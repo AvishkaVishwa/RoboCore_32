@@ -90,13 +90,13 @@ I'm Still developing this Car. In the future i need to add more functions to thi
 <div align="center">
 <img src="Assets\photo_2025-09-10_07-40-28.jpg" width="400" alt="3D design" />
 </div> 
----
+
 
 ## 🎉 Special Thanks to PCBWay
 
 
 <div align="center">
-  <img src="Assets\board.jpg" width="260">
+  <img src="Assets\board.jpg" width="500">
 </div>
 
 <p align="center">
