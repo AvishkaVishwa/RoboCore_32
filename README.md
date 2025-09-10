@@ -81,6 +81,15 @@ RoboCore-32 is a custom PCB for **robotics learning, prototyping, and IoT projec
 <div align="center">
 <img src="Assets\test1.jpg" width="400" alt="3D design" />
 </div> 
+
+<div align="center">
+<img src="Assets\photo_2025-09-10_07-40-29.jpg" width="400" alt="3D design" />
+</div> 
+
+I'm Still developing this Car. In the future i need to add more functions to this robot.
+<div align="center">
+<img src="Assets\photo_2025-09-10_07-40-28.jpg" width="400" alt="3D design" />
+</div> 
 ---
 
 ## 🎉 Special Thanks to PCBWay
