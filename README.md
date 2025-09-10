@@ -74,18 +74,20 @@ RoboCore-32 is a custom PCB for **robotics learning, prototyping, and IoT projec
 <img src="Assets\First_design.jpg" width="400" alt="3D design" />
 </div>  This one is the first design i did and while testing I found some design errors. So I Redesign and ask From PCBWay Refabricate new design.
 
+<div align="center">
+<img src="Assets\board.jpg" width="400" alt="3D design" />
+</div> 
 
-- Top View  
-- Bottom View  
-- Assembled Prototype  
-
+<div align="center">
+<img src="Assets\test1.jpg" width="400" alt="3D design" />
+</div> 
 ---
 
 ## 🎉 Special Thanks to PCBWay
 
 
 <div align="center">
-  <img src="--" width="260">   <img src="--" width="260"> 
+  <img src="Assets\board.jpg" width="260">   <img src="--" width="260"> 
 </div>
 
 <p align="center">
