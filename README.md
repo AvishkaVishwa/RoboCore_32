@@ -91,8 +91,8 @@ RoboCore-32 is a custom PCB for **robotics learning, prototyping, and IoT projec
 </div>
 
 <p align="center">
-  <a href="https://www.pcbway.com/" target="_blank">
-    <img src="--- alt="PCBWay" width="200"/>
+    <a href="https://www.pcbway.com/" target="_blank">
+    <img src="https://github.com/AvishkaVishwa/12V-DC-Motor-Speed-Controller-PCB-Design-using-KiCAD/blob/0191b6e02eeb30e176867d2a93ebec854536829a/Images/pcbwaylogo.jpg" alt="PCBWay" width="200"/>
   </a>
 
 </p>
