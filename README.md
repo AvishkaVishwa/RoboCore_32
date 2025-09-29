@@ -24,15 +24,15 @@ RoboCore-32 is not just another ESP32 breakout; it’s a step toward creating my
 ---
 ## ✨ Highlights
 
-ESP32-WROOM-32 MCU (dual-core, Wi-Fi, BLE)
-TB6612FNG dual H-bridge motor driver for 2 DC motors
-Stable power management:
-LM2596S-5.0 buck (12 V → 5 V)
-AMS1117-3.3 LDO (5 V → 3.3 V)
-FT232RL USB-UART for flashing and debugging
-12 V barrel jack input with auto-switching
-I²C JST header + GPIO breakout with clear silk labels
-User button (Boot/Reset or custom use)
+- ESP32-WROOM-32 MCU (dual-core, Wi-Fi, BLE)
+- TB6612FNG dual H-bridge motor driver for 2 DC motors
+- Stable power management:
+- LM2596S-5.0 buck (12 V → 5 V)
+- AMS1117-3.3 LDO (5 V → 3.3 V)
+- FT232RL USB-UART for flashing and debugging
+- 12 V barrel jack input with auto-switching
+- I²C JST header + GPIO breakout with clear silk labels
+- User button (Boot/Reset)
 ---
 
 ## 🛠️ **Applications**
