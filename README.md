@@ -133,7 +133,8 @@ I would like to give a huge shoutout and sincere thanks to **[PCBWay](https://ww
 
 The **build quality, silkscreen clarity, via precision, and copper finish** exceeded expectations. PCBWay’s service was fast, professional, and extremely helpful throughout the production process.
 
-This project wouldn’t have been possible without their generous support. If you’re looking to manufacture professional-grade PCBs at an affordable price, I highly recommend checking them out.
+This project went through **multiple iterations**, and PCBWay’s **ENIG finish, precise via alignment, and quick turnaround** made it possible for me to move from a flawed first version to a reliable working board.  
+For robotics controllers where stable power and reliable solder joints are critical, their service made a huge difference. 
 
 🔗 [Visit PCBWay →](https://www.pcbway.com/)
 
