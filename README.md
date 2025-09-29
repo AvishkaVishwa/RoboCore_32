@@ -95,6 +95,25 @@ I'm Still developing this Car. In the future i need to add more functions to thi
 <img src="Assets\photo_2025-09-10_07-40-28.jpg" width="400" alt="3D design" />
 </div> 
 
+---
+🌟 Behind the Build
+
+RoboCore-32 went through multiple fabrication runs, each one teaching me something new:
+
+- First Order (Prototype v1.0):
+I discovered some design mistakes in the power section and routing.
+PCBWay’s quick fabrication turnaround allowed me to identify and fix those errors without losing much time.
+
+- Second Order (Refabricated v1.1):
+With corrections applied, PCBWay’s precision drilling and silkscreen quality made assembly smooth.
+The ENIG finish gave excellent solderability, which was critical for the FT232RL and fine-pitch ESP32 module.
+
+- Service Choices I Made:
+2-layer board with 1 oz copper, standard green solder mask.
+ENIG surface finish for durability and easy soldering.
+Panelization option to get multiple boards for testing.
+
+---
 
 ## 🎉 Special Thanks to PCBWay
 
