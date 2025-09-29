@@ -15,20 +15,24 @@
 
 
 ## ✨ **Why RoboCore-32?**
-RoboCore-32 is a custom PCB for **robotics learning, prototyping, and IoT projects**. It features:
+I have always had an urge to build my own product instead of relying only on ready-made boards. That passion led me to design RoboCore-32.
 
-- 🟦 **ESP32-WROOM-32** (Wi-Fi + BLE microcontroller)
-- ⚡ **TB6612FNG Dual H-Bridge Driver** – control up to **2 DC motors**
-- 🔋 **Onboard Power Management**
-   - LM2596S-5 → 5V buck regulator (up to ~3A)
-   - AMS1117-3.3 → 3.3V LDO regulator
-- 🖥️ **USB Programming & Debugging** via FT232RL USB–UART
-- 🔌 **Barrel Jack Power Input** with auto switching
-- 🧩 **Expansion Headers**
-   - I²C JST header for sensors/displays
-   - GPIO pin headers (1×02, 1×03, 1×04)
-- 🔘 **User Input Button** (Reset/Boot/User configurable)
+This board started as my testing platform — a way to learn PCB design, power routing, and motor driver integration while also creating something I could actually use in my robotics projects. Over time, it grew into more than just a test board: I see it as the foundation for a robotics learning kit fully built by me, where I can explore, experiment, and share what I learn with others.
 
+RoboCore-32 is not just another ESP32 breakout; it’s a step toward creating my own ecosystem of boards, tools, and examples that help students and hobbyists dive into robotics with confidence.
+
+---
+## ✨ Highlights
+
+ESP32-WROOM-32 MCU (dual-core, Wi-Fi, BLE)
+TB6612FNG dual H-bridge motor driver for 2 DC motors
+Stable power management:
+LM2596S-5.0 buck (12 V → 5 V)
+AMS1117-3.3 LDO (5 V → 3.3 V)
+FT232RL USB-UART for flashing and debugging
+12 V barrel jack input with auto-switching
+I²C JST header + GPIO breakout with clear silk labels
+User button (Boot/Reset or custom use)
 ---
 
 ## 🛠️ **Applications**
